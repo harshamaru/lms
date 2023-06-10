@@ -1,13 +1,5 @@
-package in.javahome;
-
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
-}
+<html>
+<body>
+<h2>hello wolrd</h2>
+</body>
+</html>
